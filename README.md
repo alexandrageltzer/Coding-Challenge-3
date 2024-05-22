@@ -26,3 +26,9 @@ car1.accelerate();  // BMW is going at 130 km/h
 car1.brake();       // BMW is going at 125 km/h
 car1.accelerate();  // BMW is going at 135 km/h
 car1.brake();       // BMW is going at 130 km/h
+
+console.log('--- Testing car2 ---');
+car2.accelerate();  // Mercedes is going at 105 km/h
+car2.brake();       // Mercedes is going at 100 km/h
+car2.accelerate();  // Mercedes is going at 110 km/h
+car2.brake();       // Mercedes is going at 105 km/h
